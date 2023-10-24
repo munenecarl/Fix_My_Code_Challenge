@@ -1,0 +1,1 @@
+Fixing Errors 101 Fixing simple errors the code provided in different languages
